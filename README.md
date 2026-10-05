@@ -1,5 +1,21 @@
-# Analisis-de-la-Calidad-del-Vino 🍷 
-Este repositorio contiene un proyecto enfocado en el análisis de la calidad del vino mediante la aplicación de técnicas de aprendizaje automático (Machine Learning). El objetivo principal de este proyecto es construir un modelo predictivo capaz de estimar la calidad del vino a partir de sus diferentes características físico-químicas.   
-Fases y Contenido del Análisis del Dataset: Se trabaja con un conjunto de datos que incluye 1600 filas y 12 variables en total.   Variables: 11 características químicas del vino y 1 variable objetivo (calidad) con valores en una escala del 0 al 10.   
-Fase Exploratoria: Análisis estadístico y visualización de la distribución de las variables utilizando herramientas como pandas, matplotlib y seaborn, identificación de distribuciones asimétricas (especialmente en las variables relacionadas con el dióxido de azufre), lo que resalta la necesidad de aplicar procesos de estandarización previos al modelado.   Análisis de correlación entre las variables químicas y la calidad del vino.   
-Tecnologías y Librerías Utilizadas: PythonPandas y NumPy (Manipulación y análisis de datos), Matplotlib y Seaborn (Visualización de datos)   
+# Wine Quality Analysis 🍷
+This repository contains a project focused on analyzing wine quality through the application of Machine Learning techniques. The main objective of this project is to build a predictive model capable of estimating wine quality based on its various physicochemical characteristics.
+
+Dataset Phases and Content Analysis
+The project works with a dataset including 1,600 rows and 12 variables in total.
+
+Variables: 11 chemical characteristics of wine and 1 target variable (quality) with values on a scale from 0 to 10.
+
+Exploratory Phase
+Statistical Analysis & Visualization: Analyzed and visualized the distribution of variables using tools such as pandas, matplotlib, and seaborn.
+
+Data Characteristics: Identified skewed distributions (especially in variables related to sulfur dioxide), which highlights the need to apply standardization processes prior to modeling.
+
+Correlation Analysis: Explored the relationships between chemical variables and wine quality.
+
+Technologies and Libraries Used
+Python
+
+Pandas & NumPy: Data manipulation and analysis
+
+Matplotlib & Seaborn: Data visualization

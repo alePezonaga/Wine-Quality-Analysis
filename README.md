@@ -1,4 +1,4 @@
-# Wine Quality Analysis 🍷
+# Wine Quality Analysis 
 This repository contains a project focused on analyzing wine quality through the application of Machine Learning techniques. The main objective of this project is to build a predictive model capable of estimating wine quality based on its various physicochemical characteristics.
 
 Dataset Phases and Content Analysis
